@@ -88,5 +88,3 @@ If you’d like to connect, collaborate, or discuss the project:
 
 > *A platform built for gamers, by someone who loves building systems that bring people together.*
 
-## 📂 Repository Structure
-
